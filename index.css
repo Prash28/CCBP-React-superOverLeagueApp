@@ -1,0 +1,10 @@
+/* Write your code here. */
+.container {
+  text-align: center;
+  background-color: #0f172a;
+  height: 100vh;
+}
+h1{
+    font-size: 32px;
+    color: #f8fafc; 
+}
